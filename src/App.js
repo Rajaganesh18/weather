@@ -1,6 +1,6 @@
 import './App.css';
 import earthImg from '../src/images/earth.png'
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 
 function App() {
   const [hover, setHover] = useState(false);
